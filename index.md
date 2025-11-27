@@ -2,8 +2,6 @@ a.weir3@rgu.ac.uk
 
 +44 7547 563702
 
-# Adam Weir
-
 Digital Media/Computer Science graduate from Scotland.
 
 ## Relevant Experience
