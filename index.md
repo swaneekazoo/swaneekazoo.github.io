@@ -6,21 +6,21 @@ Digital Media/Computer Science graduate from Scotland.
 
 ## Education
 
-- Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)
+- **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
 
 	Graduated with First-class Honours, earning the David Davidson Award for Excellence in Computer Science.
 
-- Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)
+- **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
 
 	Studied abroad for 2 semesters, with an internship in semester 2.
 
 ## Relevant Experience
 
-- Animator, Robert Gordon University, (2022)
+- **Animator, Robert Gordon University, (2022)**
 
     Develop a package of 5 short animations to describe the process of applying to study in Scotland as an international student.
 
-- Marketing Intern, Erasmus Brussels University of Applied Sciences and Arts (2020)
+- **Marketing Intern, Erasmus Brussels University of Applied Sciences and Arts (2020)**
 
     Design marketing material for the University's media channels, including graphics, animation, video, and music.
 
