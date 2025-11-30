@@ -4,6 +4,16 @@
 
 Digital Media/Computer Science graduate from Scotland.
 
+## Education
+
+- Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)
+
+	Graduated with First-class Honours, earning the David Davidson Award for Excellence in Computer Science.
+
+- Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)
+
+	Studied abroad for 2 semesters, with an internship in semester 2.
+
 ## Relevant Experience
 
 - Animator, Robert Gordon University, (2022)
@@ -28,16 +38,6 @@ Digital Media/Computer Science graduate from Scotland.
 - Tour Guide, Glenmorangie Distillery (2017)
 - Chilled Colleague, ASDA (2015--16)
 - Paperboy, R.S. McColls (2012--15)
-
-## Education
-
-- Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)
-
-	Graduated with First-class Honours, earning the David Davidson Award for Excellence in Computer Science.
-
-- Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)
-
-	Studied abroad for 2 semesters, with an internship in semester 2.
 
 ## Awards
 
