@@ -2,6 +2,8 @@
 
 [+44 7547 563702](tel:+447547563702)
 
+# Adam Weir
+
 Digital Media/Computer Science graduate from the North of Scotland.
 
 ## Education
