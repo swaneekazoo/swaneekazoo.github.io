@@ -20,11 +20,11 @@ Digital Media/Computer Science graduate from the North of Scotland.
 
 - **Connecting Carers, Graduate Technology Officer (2025--2026)**
 
-Improve the organisation's digital maturity through business process automation, provide staff training, assist with a graphic design project.
+	Improve the organisation's digital maturity through business process automation, provide staff training, assist with a graphic design project.
 
 - **Fennex, IT Specialist (2021--22)**
 
-Develop web apps for major clients in the North Sea energy industry, wrangle data.
+	Develop web apps for major clients in the North Sea energy industry, wrangle data.
 
 ## Other Experience
 

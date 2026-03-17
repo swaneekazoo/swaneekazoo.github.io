@@ -20,11 +20,11 @@ Digital Media/Computer Science graduate from the North of Scotland.
 
 - **Tinderbox, Kitchen Assistant (2023--24)**
 
-Prepare food at the central kitchen for Glasgow Tinderbox branches, and keep food prep equipment and the kitchen clean.
+	Prepare food at the central kitchen for Glasgow Tinderbox branches, and keep food prep equipment and the kitchen clean.
 
 - **Carnegie Club at Skibo Castle, Kitchen Assistant (2018--19)**
 
-Keep food prep equipment and the kitchen clean, and drive food and personnel around the Skibo estate.
+	Keep food prep equipment and the kitchen clean, and drive food and personnel around the Skibo estate.
 
 ## Other Experience
 
