@@ -6,3 +6,5 @@
 
 - [IT](it.md)
 - [Hospitality](hospitality.md)
+- [Cleaning](cleaning.md)
+- [Care](care.md)
